@@ -7,7 +7,7 @@ Consulta el artículo aquí:
 
 ## Archivos en este repositorio:
 
-### entidades-buscador-de-mapeo-Exp\_0x02.json
+### entities-mapping-seeker-Exp\_0x02.json
 Contiene una exportación completa de TODAS las entidades en JSON creadas en el proyecto hasta la publicación del artículo.  
 
 ### entidades-WHITE-IOCs.stix2
